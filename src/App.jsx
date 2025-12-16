@@ -14,10 +14,10 @@ function App() {
     <div className="bg-[#101e3c]">
       <Router>
         <Routes>
-          <Route path="/" element={<Navigate to="/waiter" replace />} />
+          <Route path="/" element={<Navigate to="/manager"/>} />
 
-          <Route path="/waiter" element={<Waiter />} />
           <Route path="/manager" element={<Manager />} />
+          <Route path="/waiter" element={<Waiter />} />
           <Route path="/kitchen" element={<Kitchen />} />
           <Route path="/cashier" element={<Cashier />} />
         </Routes>

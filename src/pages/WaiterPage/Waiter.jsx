@@ -59,6 +59,11 @@ const Waiter = () => {
   };
 
   const finalizeOrder = () => {
+  // Save the order to localStorage before clearing
+    const savedOrders = JSON.parse(localStorage.getItem("kitchenOrders") || "[]");
+    const newOrders = [...savedOrders, { table: tableNumber, items: orders }];
+    localStorage.setItem("kitchenOrders", JSON.stringify(newOrders));
+
     setOrders([]);
     setTableNumber("");
     setShowConfirmModal(false);
