@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\dto\\foodreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\dto\\foodreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\models\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\models\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\restaurantmanager.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\restaurantmanager.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\restaurantmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\restaurantmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\models\\transactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\models\\transactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\controller\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\controller\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\controller\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\controller\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\controller\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\controller\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\controller\\foodcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\controller\\foodcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantManagerDb/True/SqlTable/dbo.Foods.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantManagerDb/True/SqlTable/dbo.Transactions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\dto\\foodcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\dto\\foodcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\dto\\foodupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\dto\\foodupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\dto\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\dto\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\dto\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\dto\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|c:\\users\\chris\\onedrive\\documents\\restaurantmanagement\\backend\\restaurantmanager\\restaurantmanager.api\\restaurantmanager.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2EFAF850-A25C-8B29-FD93-0857D197B157}|RestaurantManager.API\\RestaurantManager.API.csproj|solutionrelative:restaurantmanager.api\\restaurantmanager.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 251,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodCategory.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\FoodCategory.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Models\\FoodCategory.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\FoodCategory.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Models\\FoodCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:32:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\Food.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:07:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:07:25.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\Transaction.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:53:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantManager.API.csproj",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\RestaurantManager.API.csproj",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\RestaurantManager.API.csproj",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\RestaurantManager.API.csproj",
+              "RelativeToolTip": "RestaurantManager.API\\RestaurantManager.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T14:14:52.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestaurantManager.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T15:08:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\OrderItem.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:47:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\FoodReadDto.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\DTO\\FoodReadDto.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\FoodReadDto.cs",
+              "RelativeToolTip": "RestaurantManager.API\\DTO\\FoodReadDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:49:56.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Program.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:44:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\DTO\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\PaymentDto.cs",
+              "RelativeToolTip": "RestaurantManager.API\\DTO\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:57:12.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantManager.API",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\RestaurantManager.API.csproj",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\RestaurantManager.API.csproj",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\RestaurantManager.API.csproj",
+              "RelativeToolTip": "RestaurantManager.API\\RestaurantManager.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T16:20:45.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\DTO\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\CreateOrderDto.cs",
+              "RelativeToolTip": "RestaurantManager.API\\DTO\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:25:05.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:15:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionItems.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\TransactionItems.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Models\\TransactionItems.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Models\\TransactionItems.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Models\\TransactionItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T16:15:01.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Controller\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\TransactionsController.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Controller\\TransactionsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:51:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Controller\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\OrderItemController.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Controller\\OrderItemController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:59:55.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\OrderController.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Controller\\OrderController.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\OrderController.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Controller\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:20:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\FoodController.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Controller\\FoodController.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\FoodController.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Controller\\FoodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:14:17.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\FoodCategoriesController.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\Controller\\FoodCategoriesController.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\Controller\\FoodCategoriesController.cs",
+              "RelativeToolTip": "RestaurantManager.API\\Controller\\FoodCategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:10:56.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FoodUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\FoodUpdateDto.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\DTO\\FoodUpdateDto.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\FoodUpdateDto.cs",
+              "RelativeToolTip": "RestaurantManager.API\\DTO\\FoodUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:59:46.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FoodCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\FoodCreateDto.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\DTO\\FoodCreateDto.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\FoodCreateDto.cs",
+              "RelativeToolTip": "RestaurantManager.API\\DTO\\FoodCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:48:09.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\appsettings.json",
+              "RelativeToolTip": "RestaurantManager.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T06:43:58.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\OrderReadDto.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\DTO\\OrderReadDto.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\OrderReadDto.cs",
+              "RelativeToolTip": "RestaurantManager.API\\DTO\\OrderReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:51:23.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateOrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\CreateOrderItemDto.cs",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\DTO\\CreateOrderItemDto.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\DTO\\CreateOrderItemDto.cs",
+              "RelativeToolTip": "RestaurantManager.API\\DTO\\CreateOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:50:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RestaurantManager.API.http",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\RestaurantManager.API.http",
+              "RelativeDocumentMoniker": "RestaurantManager.API\\RestaurantManager.API.http",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\RestaurantManagement\\backend\\RestaurantManager\\RestaurantManager.API\\RestaurantManager.API.http",
+              "RelativeToolTip": "RestaurantManager.API\\RestaurantManager.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-17T06:44:01.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.Foods [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantManagerDb/True/SqlTable/dbo.Foods.sql",
+              "ToolTip": "dbo.Foods [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T16:07:15.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Transactions [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantManagerDb/True/SqlTable/dbo.Transactions.sql",
+              "ToolTip": "dbo.Transactions [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T15:53:03.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
