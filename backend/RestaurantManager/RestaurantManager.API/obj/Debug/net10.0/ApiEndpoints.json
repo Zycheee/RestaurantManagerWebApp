@@ -303,7 +303,7 @@
   },
   {
     "ContainingType": "RestaurantManager.API.Controllers.TransactionsController",
-    "Method": "CreateTransaction",
+    "Method": "PostTransaction",
     "RelativePath": "api/Transactions",
     "HttpMethod": "POST",
     "IsController": true,
@@ -315,7 +315,17 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "RestaurantManager.Api.Models.Transaction",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "RestaurantManager.API.Controllers.TransactionsController",

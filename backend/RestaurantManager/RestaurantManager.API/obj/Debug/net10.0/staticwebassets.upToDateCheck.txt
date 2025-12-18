@@ -2,3 +2,4 @@ wwwroot\images\a30ce631-1c96-4e39-a2ea-90fa8093e46b_pets_1000dp_CDE7FF_FILL1_wgh
 wwwroot\images\f5d99c38-32bb-418c-83bb-f8759ebfe0fa_G8AntO_XIAMTI3W.png
 wwwroot\images\5f675862-0548-4f9b-9a10-673d35b51a5b_group_1000dp_CDE7FF_FILL1_wght400_GRAD0_opsz48.png
 wwwroot\images\0fc71644-5ac3-4d7e-b230-e8fc87df22cb___opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__10__20191023-chicken-adobo-vicky-wasik-19-12ce105a2e1a44dfb1e2673775118064.jpg
+wwwroot\images\372c009e-82b7-40e7-acf8-5e63ea2a9607_images (2).jpg
